@@ -1,0 +1,20 @@
+{
+  "imageFilename": "Catalina_*.jpg",
+  "imageCredits": "Apple",
+  "sunriseImageList": [
+    3,
+    4
+  ],
+  "dayImageList": [
+    5,
+    6,
+    7
+  ],
+  "sunsetImageList": [
+    1,
+    8
+  ],
+  "nightImageList": [
+    2
+  ]
+}
